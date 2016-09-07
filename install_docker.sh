@@ -50,7 +50,7 @@ sudo service docker start
 sudo docker run hello-world
 
 
-## VERIFICATION ##
+## USER GROUP ##
 echo ""
 echo "Everything seems to be OK, isn't it? If so, add current user to 'docker' group"
 echo "PRESS ANY KEY TO CONTINUE"
