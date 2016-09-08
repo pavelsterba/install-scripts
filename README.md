@@ -21,3 +21,5 @@ download [dotfiles](https://github.com/pavelsterba/dotfiles), setup login using 
 ### **install_docker.sh**
 configure *apt*, install Docker, verify installation, add user to "docker" group, download [dotfiles for Docker](https://github.com/pavelsterba/dotfiles) 
 
+### **install_nginx.sh**
+install nginx, configure it to run on startup, test connection
