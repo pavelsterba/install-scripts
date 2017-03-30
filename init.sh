@@ -4,6 +4,9 @@
 apt-get update
 apt-get upgrade
 
+# Install useful stuff
+apt-get install make, curl
+
 # Create new user
 echo -e "New user: \c"
 read NEW_USERNAME
